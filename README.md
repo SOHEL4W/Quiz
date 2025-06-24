@@ -18,6 +18,3 @@ QuizHunt is a quiz website that offers quizzes on programming languages such as 
 # Getting Started
 To run Quizhunt locally, simply clone this repository and open the index.html file in a web browser.
 
-# Contributions
-Contributions to Quizhunt are welcome! If you would like to contribute, please follow this [Contribute to QuizHunt](https://github.com/ashishalf/quizhunt.github.io/blob/master/CONTRIBUTE.md).
- fd71864 (add files)
